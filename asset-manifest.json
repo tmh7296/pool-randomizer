@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pool-randomizer/static/css/main.79f38168.chunk.css",
+    "main.js": "/pool-randomizer/static/js/main.cbdcdfdd.chunk.js",
+    "main.js.map": "/pool-randomizer/static/js/main.cbdcdfdd.chunk.js.map",
+    "runtime-main.js": "/pool-randomizer/static/js/runtime-main.cea6c387.js",
+    "runtime-main.js.map": "/pool-randomizer/static/js/runtime-main.cea6c387.js.map",
+    "static/js/2.658f02fe.chunk.js": "/pool-randomizer/static/js/2.658f02fe.chunk.js",
+    "static/js/2.658f02fe.chunk.js.map": "/pool-randomizer/static/js/2.658f02fe.chunk.js.map",
+    "static/js/3.8abe04da.chunk.js": "/pool-randomizer/static/js/3.8abe04da.chunk.js",
+    "static/js/3.8abe04da.chunk.js.map": "/pool-randomizer/static/js/3.8abe04da.chunk.js.map",
+    "index.html": "/pool-randomizer/index.html",
+    "static/css/main.79f38168.chunk.css.map": "/pool-randomizer/static/css/main.79f38168.chunk.css.map",
+    "static/js/2.658f02fe.chunk.js.LICENSE.txt": "/pool-randomizer/static/js/2.658f02fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cea6c387.js",
+    "static/js/2.658f02fe.chunk.js",
+    "static/css/main.79f38168.chunk.css",
+    "static/js/main.cbdcdfdd.chunk.js"
+  ]
+}
